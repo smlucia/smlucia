@@ -1,6 +1,4 @@
 
-Hello 
-
 I'm Lucia, a Software Engineering Undergraduate at Sri Lanka Institute of Information Technology (SLIIT) , Sri Lanka
 
 
