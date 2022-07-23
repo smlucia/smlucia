@@ -1,8 +1,13 @@
-IT20085858
-smlucia
+
+Hello 
+
+I'm Lucia, a Software Engineering Undergraduate at Sri Lanka Institute of Information Technology (SLIIT) , Sri Lanka
+
 
 <!--
 **smlucia/smlucia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![smlucia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucia&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
